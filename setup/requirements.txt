@@ -1,0 +1,34 @@
+# Gym Duckietown
+pyglet
+gym>=0.9.0
+pyzmq>=16.0.0
+scikit-image>=0.13.1
+pyyaml>=3.11
+cloudpickle
+duckietown_slimremote>=2018.8.2
+pygeometry
+dataclasses
+carnivalmirror
+
+# IPython
+jupyter
+gitpython
+ipywidgets
+
+# AIDO Submission Infrastructure
+
+opencv-python==4.0.0.21
+numpy==1.16.2
+
+zuper-utils==3.0.3
+zuper-nodes==2.0.3
+zuper-commons==3.0.4
+aido-protocols-daffy==5.0.18
+
+duckietown-world-daffy==5.0.8
+duckietown-challenges==4.0.30
+duckietown-gym-daffy==5.0.9
+
+# Class exercises
+torch==1.0.0
+pillow
